@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +41,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[6.0.1, )"
