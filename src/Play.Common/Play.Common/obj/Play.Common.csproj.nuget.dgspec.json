@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.4",
       "restore": {
         "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
@@ -48,6 +48,10 @@
             "MassTransit.RabbitMQ": {
               "target": "Package",
               "version": "[7.3.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
