@@ -34,6 +34,9 @@ namespace Play.Common.MassTransit
             return services;
         }
 
+        /*
+            This method here is just the specification/configuration of the RabbitMQ
+         */
         public static void UsingPlayEconomyRabbitMq(
             this IServiceCollectionBusConfigurator configure,
             Action<IRetryConfigurator> configureRetries = null)
