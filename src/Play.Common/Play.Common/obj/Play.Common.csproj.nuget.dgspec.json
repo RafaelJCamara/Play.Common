@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.6",
       "restore": {
         "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj",
         "projectName": "Play.Common",
@@ -76,7 +76,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
