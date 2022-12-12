@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+	<PackageDescription>Common libraries used by Play Economy services.</PackageDescription>
+	<Authors>Rafael Camara</Authors>
+	<Company>Nebula</Company>
   </PropertyGroup>
 
   <ItemGroup>

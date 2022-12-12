@@ -1,0 +1,12 @@
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\bin\Release\net5.0\Play.Common.deps.json
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\bin\Release\net5.0\Play.Common.dll
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\bin\Release\net5.0\Play.Common.pdb
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.csproj.AssemblyReference.cache
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.AssemblyInfoInputs.cache
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.AssemblyInfo.cs
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.dll
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\refint\Play.Common.dll
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\Play.Common.pdb
+C:\Users\Rafael\Documents\Projects\DotnetMicroservices\Play.Common\src\Play.Common\Play.Common\obj\Release\net5.0\ref\Play.Common.dll
