@@ -1,29 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj": {}
+    "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj": {
-      "version": "1.0.6",
+    "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj": {
+      "version": "1.0.7",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj",
         "projectName": "Play.Common",
-        "projectPath": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\Play.Common.csproj",
-        "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\Play.Common\\src\\Play.Common\\Play.Common\\obj\\",
+        "projectPath": "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj",
+        "packagesPath": "/Users/rafaelcamara/.nuget/packages/",
+        "outputPath": "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/rafaelcamara/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Rafael\\Documents\\Projects\\DotnetMicroservices\\packages": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/RafaelJCamara/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -76,8 +74,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -86,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }
