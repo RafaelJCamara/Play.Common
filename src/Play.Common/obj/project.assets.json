@@ -4888,7 +4888,7 @@
     "/Users/rafaelcamara/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "restore": {
       "projectUniqueName": "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj",
       "projectName": "Play.Common",
@@ -4970,7 +4970,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

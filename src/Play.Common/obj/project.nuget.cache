@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WzBTlj0rm0xovWDqMhxfTN/Vo3xKh2Y5yQkN5UznX8IBXjnsfKPGD+9SR2nOvA/Xht13Vno3+LqSMqU+RT6URQ==",
+  "dgSpecHash": "2TDnx8bLobC7azuamwxbBqJRM239AisPDgDxM4fdsm0L5vcC4SEYBM/f49UJTczR2Rt20wru25aBw0zULOrArQ==",
   "success": true,
   "projectFilePath": "/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/Play.Common.csproj",
   "expectedPackageFiles": [

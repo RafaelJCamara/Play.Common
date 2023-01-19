@@ -20,5 +20,5 @@ C:/Users/Rafael/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Comm
 /Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/obj/Release/net5.0/Play.Common.pdb
 /Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/bin/Release/net5.0/Play.Common.deps.json
 /Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/bin/Release/net5.0/Play.Common.dll
-/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/bin/Release/net5.0/ref/Play.Common.dll
 /Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/bin/Release/net5.0/Play.Common.pdb
+/Users/rafaelcamara/Documents/Projects/DotnetMicroservices/Play.Common/src/Play.Common/obj/Release/net5.0/refint/Play.Common.dll

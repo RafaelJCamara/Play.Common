@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Play.Common/1.0.8": {
+      "Play.Common/1.0.9": {
         "dependencies": {
           "MassTransit.AspNetCore": "7.3.1",
           "MassTransit.Azure.ServiceBus.Core": "7.3.1",
@@ -889,7 +889,7 @@
     }
   },
   "libraries": {
-    "Play.Common/1.0.8": {
+    "Play.Common/1.0.9": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
